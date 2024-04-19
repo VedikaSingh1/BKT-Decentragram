@@ -18,14 +18,12 @@
 ### 2. Install Dependencies:
 
 ```
-$ cd decentragram
 $ npm install
 ```
 
 ### 3. Boot up local development blockchain
 
 ```
-$ cd decentratwitter
 $ npx hardhat node
 ```
 
@@ -46,7 +44,3 @@ $ npx hardhat node
 ### 7. Launch Frontend
 
 `$ npm run start`
-
-## License
-
-MIT
